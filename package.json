@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "Jacob Klapwijk",
   "license": "MIT",
-  "repository": "nordnet/prettier-config"
+  "repository": "nordnet/prettier-config",
+  "scripts": {
+    "test": "echo 'Nothing to see here, move along'"
+  }
 }
