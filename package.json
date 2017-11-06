@@ -1,0 +1,9 @@
+{
+  "name": "@nordnet/prettier-config",
+  "version": "dev",
+  "description": "Nordnet's standard Prettier config",
+  "main": "index.js",
+  "author": "Jacob Klapwijk",
+  "license": "MIT",
+  "repository": "nordnet/prettier-config"
+}
