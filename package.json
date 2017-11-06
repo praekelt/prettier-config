@@ -7,6 +7,10 @@
   "license": "MIT",
   "repository": "nordnet/prettier-config",
   "scripts": {
-    "test": "echo 'Nothing to see here, move along'"
+    "test": "echo 'Nothing to see here, move along'",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "devDependencies": {
+    "semantic-release": "^6.3.6"
   }
 }
