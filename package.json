@@ -1,6 +1,6 @@
 {
   "name": "@nordnet/prettier-config",
-  "version": "dev",
+  "version": "0.0.0-development",
   "description": "Nordnet's standard Prettier config",
   "main": "index.js",
   "author": "Jacob Klapwijk",
