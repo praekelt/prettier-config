@@ -1,16 +1,11 @@
 {
-  "name": "@nordnet/prettier-config",
-  "version": "0.0.0-development",
-  "description": "Nordnet's standard Prettier config",
+  "name": "@prk/prettier-config",
+  "version": "0.0.1",
+  "description": "Praekelt Consulting's standard Prettier config",
   "main": "index.js",
-  "author": "Jacob Klapwijk",
-  "license": "MIT",
-  "repository": "nordnet/prettier-config",
-  "scripts": {
-    "test": "echo 'Nothing to see here, move along'",
-    "semantic-release": "semantic-release pre && npm publish --access public && semantic-release post"
-  },
+  "license": "BSD-3-Clause",
+  "repository": "git@github.com:praekelt/prettier-config.git",
   "devDependencies": {
-    "semantic-release": "^6.3.6"
+    "@prk/eslint-config": "^0.0.7"
   }
 }
