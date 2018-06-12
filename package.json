@@ -1,11 +1,14 @@
 {
-  "name": "@prk/prettier-config",
-  "version": "0.0.1",
-  "description": "Praekelt Consulting's standard Prettier config",
-  "main": "index.js",
-  "license": "BSD-3-Clause",
-  "repository": "git@github.com:praekelt/prettier-config.git",
-  "devDependencies": {
-    "@prk/eslint-config": "^0.0.7"
-  }
+    "name": "@prk/prettier-config",
+    "version": "0.0.2",
+    "description": "Praekelt Consulting's standard Prettier config",
+    "main": "index.js",
+    "license": "MIT",
+    "repository": "git@github.com:praekelt/prettier-config.git",
+    "dependencies": {
+        "prettier": "1.13.5"
+    },
+    "devDependencies": {
+        "@prk/eslint-config": "^0.0.7"
+    }
 }
